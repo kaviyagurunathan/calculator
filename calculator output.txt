@@ -1,0 +1,8 @@
+"C:\Program Files\Java\jdk-16.0.2\bin\java.exe" "-javaagent:C:\Users\WELCOME\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.1\lib\idea_rt.jar=51689:C:\Users\WELCOME\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\WELCOME\IdeaProjects\LMS\out\production\LMS SimpleCalculator
+Enter the first number: 1
+Enter the second number: 3
+Enter the type of operation you want to perform (+, -, *, /, %): 
++
+Your answer is: 4
+
+Process finished with exit code 0
